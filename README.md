@@ -8,7 +8,7 @@
 <ul>
   <li>Os dados foram baixados do <a href="https://www.kaggle.com/datasets/abdullah0a/retail-sales-data-with-seasonal-trends-and-marketing">Kaggle</a> e extraídos de um arquivo .csv.</li>
   <li>O dataset contém informações detalhadas sobre vendas e receitas de uma empresa.</li>
-  <li>O arquivo .csv foi armazenado no **Amazon S3.**</li>
+  <li>O arquivo .csv foi armazenado no __Amazon S3__.</li>
     <ul>
       <li>Embora esse passo não fosse estritamente necessário, optei por utilizá-lo para adquirir experiência com ferramentas de nuvem.</li>
     </ul>
