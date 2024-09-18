@@ -4,11 +4,13 @@
 <br>
 <h3>Resumo</h3>
 <ul>
-  <li>Os dados foram baixados do <a href="https://www.kaggle.com/datasets/abdullah0a/retail-sales-data-with-seasonal-trends-and-marketing">Kaggle</a> e foram extraídos de um arquivo .csv.</li>
-  <li>Os dados contém informações de vendas e receitas de uma empresa.</li>
-  <li>O arquivo .csv foi armazenado na **Amazon S3**.</li>
+  <li>Os dados foram baixados do <a href="https://www.kaggle.com/datasets/abdullah0a/retail-sales-data-with-seasonal-trends-and-marketing">Kaggle</a> e extraídos de um arquivo .csv.</li>
+  <li>O dataset contém informações detalhadas sobre vendas e receitas de uma empresa.</li>
+  <li>O arquivo .csv foi armazenado no **Amazon S3.**</li>
     <ul>
-      <li>Esse passo não era necessário, porém gostaria de ter tido a experiência de trabalhar com ferramentas da nuvem</li>
+      <li>Embora esse passo não fosse estritamente necessário, optei por utilizá-lo para adquirir experiência com ferramentas de nuvem.</li>
     </ul>
-  <li></li>
-</ul>
+  <li>A leitura dos dados foi realizada integrando o **Amazon S3** com o **Databricks**.<li>
+  <li>No **Databricks**, foram realizadas transformações e análises dos dados, utilizando **Apache Spark** e **SQL**.</li>
+    <li>Por fim a visualização dos dados foi feita com a biblioteca **Seaborn** utilizando **Python**.</li>
+</ul>+
