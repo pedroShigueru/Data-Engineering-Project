@@ -1,6 +1,8 @@
 <h1>Projeto de Engenharia e Análise de Dados</h1>
 <p>A imagem abaixo representa o Pipeline dos dados.</p>
+
 ![Screenshot from 2024-09-18 07-55-44](https://github.com/user-attachments/assets/9aed1e49-c3e5-421b-952c-3c6574800aaf)
+
 <br>
 <h3>Resumo</h3>
 <ul>
