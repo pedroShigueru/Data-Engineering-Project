@@ -5,6 +5,7 @@
 
 <br>
 <h3>Resumo</h3>
+
 1. Os dados foram baixados do <a href="https://www.kaggle.com/datasets/abdullah0a/retail-sales-data-with-seasonal-trends-and-marketing">Kaggle</a> e extraídos de um arquivo .csv.
 
 2. O dataset contém informações detalhadas sobre vendas e receitas de uma empresa.
