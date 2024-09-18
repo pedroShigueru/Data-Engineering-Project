@@ -10,7 +10,7 @@
 2. O dataset contém informações detalhadas sobre vendas e receitas de uma empresa.
    
 3. O arquivo .csv foi armazenado no **Amazon S3**.
-  - Embora esse passo não fosse estritamente necessário, optei por utilizá-lo para adquirir experiência com ferramentas de nuvem.
+     - Embora esse passo não fosse estritamente necessário, optei por utilizá-lo para adquirir experiência com ferramentas de nuvem.
 
 4. A leitura dos dados foi realizada integrando o **Amazon S3** com o **Databricks**.
   
